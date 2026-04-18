@@ -5,4 +5,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_pista.mk
+#    $(LOCAL_DIR)/lineage_pista.mk
+    $(LOCAL_DIR)/custom_pista.mk
