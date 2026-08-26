@@ -31,3 +31,7 @@ TARGET_RECOVERY_UI_MARGIN_HEIGHT := 103
 
 # Include the proprietary files BoardConfig.
 include vendor/realme/pista/BoardConfigVendor.mk
+
+# === MicroG ===
+BOARD_PRODUCTIMAGE_PARTITION_SIZE := 1073741824
+BOARD_SYSTEMIMAGE_PARTITION_SIZE := 3758096384
