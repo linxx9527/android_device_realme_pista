@@ -33,8 +33,7 @@ PRODUCT_PACKAGES += \
     OPlusSettingsProviderResTarget \
     OPlusSettingsResTarget \
     OPlusSystemUIResTarget \
-    Updater \
-    com.android.location.provider
+    Updater
 
 # Power
 $(call soong_config_set,qtipower,mode_ext_lib,power-ext-oplus)
